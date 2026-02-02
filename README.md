@@ -88,6 +88,9 @@ A noticeable difference between training and testing accuracy indicates **overfi
 - Matplotlib / Seaborn
 
 ---
+## 📁 Project Structure
+
+
 ├── data/
 │ └── sonar.csv
 ├── notebook/
@@ -111,5 +114,5 @@ While high training accuracy was achieved, test performance revealed overfitting
 
 
 
-## 📁 Project Structure
+
 
